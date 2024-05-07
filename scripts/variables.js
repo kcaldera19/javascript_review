@@ -3,14 +3,14 @@ console.log("whats up");
 
 // value to variables
 let dog = 5;
-dog = 20;
-console.log("dog");
+
+console.log(dog);
 
 const cat = 5;
-console.log("cat");
+console.log(cat);
 
 var chicken = 6;
-console.log("chicken");
+console.log(chicken);
 
 // changed value in variable with let and var
 let price;
@@ -25,6 +25,7 @@ console.log(wise);
 const life = 40;
 // life = 20;
 console.log(life);
+
 // 4. If you try to change the variable of a const you will get Assignment to constant variable.
 // 5. if you dont want a value of varibale to change use const.
 // 6. Var wont show the error you expect.You could things out of order and not get an error.
