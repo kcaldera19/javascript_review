@@ -2,7 +2,7 @@
 console.log("whats up");
 
 // value to variables
-let dog = 5;
+let dog = "woof";
 
 console.log(dog);
 
